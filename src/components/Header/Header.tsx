@@ -26,11 +26,6 @@ const navLinks: INavigationListItem[] = [
   },
   {
     index: 4,
-    anchorID: 'comments',
-    title: 'Відгуки'
-  },
-  {
-    index: 5,
     anchorID: 'contacts',
     title: 'Контакти'
   }
